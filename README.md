@@ -2,4 +2,5 @@
 - I’m KANISHMA G🤩
 - I'm an ELECTRONICS AND COMMUNICATION ENGINEER🎓
 - My ultimate goal is to secure a challenging position in a reputable organization to leverage my learnings and skills and to get an opportunity where I can make the best of my potential and contribute to the organization's growth.😊
-- Contact me through mail: kanishma.ec20@bitsathy.ac.in
+- Mail ID: kanishma.ec20@bitsathy.ac.in
+- LinkedIn: https://www.linkedin.com/in/kanishma-g-563040214/
