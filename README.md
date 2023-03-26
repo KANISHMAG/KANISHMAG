@@ -12,8 +12,8 @@
 •Communication
 •Leadership
 •Decision-making
-•Adaptability
 •Time Management
+•Adaptability
 - My Hobbies😎
 •Pencil Sketching✏️
 •Photography📸
