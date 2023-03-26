@@ -11,7 +11,7 @@
 •Adaptability
 •Time management
 - My Hobbies😎
-•Sketching✏️
+•Pencil Sketching✏️
 •Photography📸
 •Gardening🌱
 •Listening to Music🎶
@@ -20,3 +20,18 @@
 •C++
 •Python
 •SQL
+- Technical Skills
+•DBMS
+•DSA
+•LabView
+•PCB
+•Embedded Systems
+•Proteus
+•Matlab
+•Arduino
+- Areas of Interest
+•DBMS
+•OOPS
+•VLSI Design & Testing
+•Embedded Systems
+•IOT
