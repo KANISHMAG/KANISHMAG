@@ -19,7 +19,7 @@
 •Photography📸
 •Gardening🌱
 •Listening to Music🎶
-- Programming Languages Known👩‍💻
+- Programming Languages👩‍💻
 •C
 •CPP
 •Python
