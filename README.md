@@ -39,3 +39,6 @@
 •VLSI Design & Testing
 •Embedded Systems
 •IOT
+- Mail ID📩
+•kanishma.ec20@bitsathy.ac.in
+•kanishma0209@gmail.com
