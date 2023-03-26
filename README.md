@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @KANISHMAG
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Electronics and Communication Engineering
-- 💞️ I’m looking to collaborate on the best job to explore and learn many things
-- 📫 How to reach me kanishma.ec20@bitsathy.ac.in
-
-<!---
-KANISHMAG/KANISHMAG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi
+- I’m KANISHMA G🤩
+- I'm an ELECTRONICS AND COMMUNICATION ENGINEER🎓
+- My ultimate goal is to secure a challenging position in a reputable organization to leverage my learnings and skills and to get an opportunity where I can make the best of my potential and contribute to the organization's growth.😊
+- Contact me through mail: kanishma.ec20@bitsathy.ac.in
