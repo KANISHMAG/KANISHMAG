@@ -21,7 +21,7 @@
 •Listening to Music🎶
 - Programming Languages Known👩‍💻
 •C
-•C++
+•CPP
 •Python
 •SQL
 - Technical Skills⚙️
