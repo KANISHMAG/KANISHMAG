@@ -13,7 +13,7 @@
 •Leadership
 •Decision-making
 •Adaptability
-•Time management
+•Time Management
 - My Hobbies😎
 •Pencil Sketching✏️
 •Photography📸
