@@ -5,7 +5,7 @@
 - Academic Credentials✨
 •SSLC - 97.80%
 •HSC - 82.33%
-•B.E(ECE) - 9.09 CGPA
+•B.E(ECE) - 9.01 CGPA
 - My Strengths😉
 •Work ethic
 •Professionalism
