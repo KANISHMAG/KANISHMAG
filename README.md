@@ -24,12 +24,14 @@
 •CPP
 •Python
 •SQL
+•HTML
+•CSS
 - Technical Skills⚙️
 •DBMS
 •DSA
-•LabView
-•PCB
+•IOT
 •Embedded Systems
+•Basics of LabView
 •Proteus
 •Matlab
 •Arduino
